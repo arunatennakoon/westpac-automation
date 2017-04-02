@@ -16,7 +16,7 @@
 4. Firefox 45.8.0
 
 
-**Issues found**
-1. Button 'Complete the form to see your KiwiSaver retirement projections'(in 'Kiwisaver Retirement Calculator' page) frequently doesn't get enabled.
+**Noted**
+1. Button 'Complete the form to see your KiwiSaver retirement projections'(in 'Kiwisaver Retirement Calculator' page) sometimes doesn't get enabled in Firefox 45.
 
 
