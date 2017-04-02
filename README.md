@@ -1,7 +1,8 @@
 **Clone the project from Github**
 1. Navigate to Github
-2. Download the project or 
-	'git clone ""
+2. Download the project or clone
+URL: https://github.com/arunatennakoon/westpac-automation
+command : git clone git@github.com:arunatennakoon/westpac-automation.git
 
 
 **Install**
